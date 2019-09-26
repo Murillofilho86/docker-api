@@ -1,0 +1,9 @@
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\bin\Debug\netcoreapp2.2\Project.Api.Domain.deps.json
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\bin\Debug\netcoreapp2.2\Project.Api.Domain.dll
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\bin\Debug\netcoreapp2.2\Project.Api.Domain.pdb
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\obj\Debug\netcoreapp2.2\Project.Api.Domain.csprojAssemblyReference.cache
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\obj\Debug\netcoreapp2.2\Project.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\obj\Debug\netcoreapp2.2\Project.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\obj\Debug\netcoreapp2.2\Project.Api.Domain.AssemblyInfo.cs
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\obj\Debug\netcoreapp2.2\Project.Api.Domain.dll
+C:\Users\muril\Desktop\docker-api\project.Api\src\Project.Api.Domain\obj\Debug\netcoreapp2.2\Project.Api.Domain.pdb
